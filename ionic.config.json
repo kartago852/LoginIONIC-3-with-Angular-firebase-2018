@@ -1,0 +1,7 @@
+{
+  "name": "profebot6",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
